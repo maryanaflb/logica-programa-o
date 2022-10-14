@@ -1,0 +1,36 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro x,y,z 
+	
+escreva("Informe o primeiro número")
+leia (x)
+escreva("Informe o segundo número")
+leia (y)
+escreva("Informe o terceiro número")
+leia (z)
+   
+ 
+   }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
