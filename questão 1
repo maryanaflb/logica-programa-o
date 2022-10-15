@@ -1,0 +1,19 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	     inteiro x,y
+	     escreva("\nInforme o primeiro numero:")
+	     leia(x)
+	     escreva("\nInforme o segundo numero:")
+	     leia(y)
+	       se(x>y){
+	       	escreva("\nO primeiro e maior")
+	       }senao se (x<y){
+	       	escreva("\nO segundo e maior")
+	       }senao se (x==y){
+	       	escreva("\nsao iguais")
+	       }
+	}
+}
